@@ -1,10 +1,6 @@
 ## Hello World
 
-<style rel="stylesheet">
-    head { background:url(jb-logo-white.svg); }
-</style>
-
-<img style="float: right;" height="100px" src="jb-logo-white.svg" href="https://brandenburger.dev">
+<img float="right" height="100px" src="jb-logo-white.svg" href="https://brandenburger.dev">
 
 I'm Johannes Brandenburger, a computer science student at the [DHBW Ravensburg](https://www.ravensburg.dhbw.de/) in cooperation with [Geberit](https://geberit.com), and I'm very interested in web development and other coding related topics.
 
