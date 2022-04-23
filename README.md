@@ -1,6 +1,6 @@
 ## Hello World
 
-<img float="right" height="100px" src="jb-logo-white.svg" href="https://brandenburger.dev">
+<a href="https://brandenburger.dev"><img src="jb-logo-white.svg" align="right"  width="100px"></a>
 
 I'm Johannes Brandenburger, a computer science student at the [DHBW Ravensburg](https://www.ravensburg.dhbw.de/) in cooperation with [Geberit](https://geberit.com), and I'm very interested in web development and other coding related topics.
 
