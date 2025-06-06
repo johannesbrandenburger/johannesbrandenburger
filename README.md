@@ -4,9 +4,8 @@ I'm Johannes Brandenburger, a computer science student at the HTWG Konstanz and 
 
 ## Social Media
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/johannes_brande)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johannes-brandenburger-a72b79221/)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17077371/johannes-brandenburger)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/johannes_brande)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2?logo=Facebook&logoColor=white)](https://www.facebook.com/johannes.brandenburger.7)
 
 
