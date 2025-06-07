@@ -276,23 +276,3 @@ Program that evaluates timestamps, written in assembly x86-64
 
 
 </div>
-
-## 🎯 Interests & Activities
-
-- Playing drums in the Musikkapelle Rulfingen e.V.
-- Alpine skiing
-- Strength and endurance sport
-
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=johannesbrandenburger&show_icons=true&theme=tokyonight)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johannesbrandenburger&layout=compact&theme=tokyonight)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=johannesbrandenburger&theme=tokyonight)
-  
-</div>
