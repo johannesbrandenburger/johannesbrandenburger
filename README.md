@@ -1,20 +1,298 @@
-## Hello World
+<div align="center">
+  <img src="./img/johannes-brandenburger.png" alt="Johannes Brandenburger" width="200" height="200" style="border-radius: 50%;" />
+  
+  # Hi there, I'm Johannes Brandenburger 👋
 
-I'm Johannes Brandenburger, a computer science student at the HTWG Konstanz and I'm very interested in softwareengineering and other coding related topics.
+<div style="display: flex; flex-direction: column">
 
-## Social Media
+  [![GitHub](https://custom-icon-badges.demolab.com/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/johannesbrandenburger)
+  [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin-white&logoColor=white)](https://linkedin.com/in/johannes-brandenburger)
+  [![Website](https://custom-icon-badges.demolab.com/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://resume.brandenburger.dev)
+  [![Email](https://custom-icon-badges.demolab.com/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:johannes@brandenburger.dev)
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/johannes-brandenburger-a72b79221/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/johannes_brande)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2?logo=Facebook&logoColor=white)](https://www.facebook.com/johannes.brandenburger.7)
+</div>
+
+  📍 Mengen, Germany
+</div>
 
 
-## Experiences 
+## 🚀 About Me
 
-### Programming/Scripting Languages and Frameworks
+Hello! I am Johannes, a passionate software developer and engineer. I completed my dual studies at Geberit and am now advancing my expertise by pursuing a Master's in Software Engineering in Konstanz, Germany. Since February, I have been writing my thesis at Siemens Logistics. In addition, I work as a freelance developer and consultant for various companies and realize my own side projects in my favorite topics of software engineering.
 
-[![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E)](https://www.javascript.com/) [![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)](https://www.python.org/) [![Next.js](https://img.shields.io/badge/Next.js-000000.svg?logo=nextdotjs&logoColor=white)](https://nextjs.org/) [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](https://nodejs.org/en/) [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](https://reactjs.org/) [![Threejs](https://img.shields.io/badge/threejs-black?logo=three.js&logoColor=white)](https://threejs.org/) [![Socket.io](https://img.shields.io/badge/Socket.io-black?logo=socket.io&badgeColor=010101)](https://socket.io/) [![Bash](https://img.shields.io/badge/Bash-%23121011.svg?logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/) [![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?logo=svelte&logoColor=white)](https://svelte.dev/) [![Swift](https://img.shields.io/badge/swift-F54A2A?logo=swift&logoColor=white)](https://developer.apple.com/swift/) [![C](https://img.shields.io/badge/c-%2300599C.svg?logo=c&logoColor=white)](https://www.w3schools.com/C/) [![C++](https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](https://www.w3schools.com/CPP/default.asp) [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](https://www.w3schools.com/html/) [![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?logo=latex&logoColor=white)](https://www.latex-project.org/) [![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](https://www.markdownguide.org/) [![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?logo=css3&logoColor=white)](https://www.w3schools.com/css/) [![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)]() [![Flask](https://img.shields.io/badge/flask-%23000.svg?logo=flask&logoColor=white)](https://expressjs.com/de/) [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?logo=Flutter&logoColor=white)](https://flutter.dev/) [![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/) [![SAP Fiori](https://img.shields.io/badge/Fiori-%235899DA.svg?logo=sap&logoColor=white)](https://sapui5.hana.ondemand.com/) [![SAPUI5](https://img.shields.io/badge/SAPUI5-%232F6497.svg?logo=sap&logoColor=white)](https://sapui5.hana.ondemand.com/) [![Vite](https://img.shields.io/badge/Vite-%23000000.svg?logo=vite&logoColor=white)](https://vitejs.dev/) [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white)](https://getbootstrap.com/) [![Django](https://img.shields.io/badge/Django-%23092E20.svg?logo=django&logoColor=white)](https://www.djangoproject.com/) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+## 🛠️ Skills
 
-#### Tools and other Technologies
 
-[![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?logo=visual%20studio%20code&logoColor=whit)](https://code.visualstudio.com/) [![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?logo=vercel&logoColor=white)](https://vercel.com/) [![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)](https://supabase.com/) [![Git](https://img.shields.io/badge/Git-%23F05032.svg?logo=git&logoColor=white)](https://git-scm.com/) [![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white)](https://www.docker.com/) [![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-aws&logoColor=white)](https://aws.amazon.com/) [![GitPod](https://img.shields.io/badge/Gitpod-000000?logo=gitpod&logoColor=#FFAE33)](https://www.gitpod.io/) [![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?logo=nginx&logoColor=white)](https://www.nginx.com/) [![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)](https://mariadb.org/) [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](https://cloud.google.com/?hl=de) [![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-%230078D7.svg?logo=azure-devops&logoColor=white)](https://azure.microsoft.com/en-us/services/devops/) [![NPM](https://img.shields.io/badge/npm-%23000000.svg?logo=npm&logoColor=white)](https://www.npmjs.com/) [![Overleaf](https://img.shields.io/badge/Overleaf-47A141?logo=Overleaf&logoColor=white)](https://www.overleaf.com/) [![Notion](https://img.shields.io/badge/Notion-%23000000.svg?logo=notion&logoColor=white)](https://www.notion.so/) [![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?logo=mysql&logoColor=white)](https://www.notion.so/) [![GitHub](https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white)](https://github.com/) [![Xcode](https://img.shields.io/badge/Xcode-007ACC?logo=Xcode&logoColor=white)](https://developer.apple.com/xcode/) [![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white)](https://www.google.com/intl/de/chrome/) [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white)](https://ubuntu.com/) [![Mac OS](https://img.shields.io/badge/mac%20os-000000?logo=macos&logoColor=F0F0F0)](https://www.apple.com/macos/) [![Microsoft SharePoint](https://img.shields.io/badge/Microsoft_SharePoint-0078D4?logo=microsoft-sharepoint&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/sharepoint/collaboration) [![Suse](https://img.shields.io/badge/SUSE-0C322C?logo=SUSE&logoColor=white)](https://www.suse.com/de-de/) [![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?logo=heroku&logoColor=white)](https://www.heroku.com/) [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](https://www.linux.org/) [![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)](https://www.microsoft.com/de-de/windows) [![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?logo=microsoft-office&logoColor=white)](https://www.office.com/)
+### Technical Skills
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-%23000000.svg?e&logo=rust&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)
+![Azure](https://custom-icon-badges.demolab.com/badge/Microsoft%20Azure-0089D6?logo=msazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)
+![SAP CAP](https://img.shields.io/badge/SAP%20CAP-lightgrey)
+![Cloud Foundry](https://img.shields.io/badge/Cloud%20Foundry-lightgrey)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-ff8f00?logo=tensorflow&logoColor=white)
+![SAP UI5](https://img.shields.io/badge/SAP%20UI5-lightgrey)
+![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=fff)
+![D3.js](https://img.shields.io/badge/D3.js-lightgrey)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)
+
+
+### Soft Skills
+- Leadership Qualities ("You take on a very central role in planning and team communication")
+- Customer Orientation ("Your comprehensible and positive interaction with the CPOs is striking in a positive sense")
+- Communication Skills ("You communicate with great commitment and authenticity")
+
+
+## 🎓 Education
+
+| Degree | University | Location | Period | Avg | Thesis |
+|--------|------------|----------|--------|-----|--------|
+| Master of Science in Software Engineering | University of Applied Sciences Konstanz | Konstanz, Germany | 2023 - Expected 2025 | 1.1 | - |
+| Bachelor of Science in Computer Science (Information Technology) | DHBW Ravensburg (Cooperative State University) | Ravensburg, Germany | 2020 - 2023 | 1.2 | "Zentrale Plattform für die Analyse und Verwaltung der Code-Sicherheit in Unternehmenssoftwaresystemen" (1.0) |
+
+## 💼 Professional Experience
+
+| Position | Company | Location | Period | Infos |
+|----------|---------|----------|--------|---------------------|
+| Master's Student | Siemens Logistics | Konstanz, Germany | Feb 2025 - Present | • Writing my master's thesis in the field of airport sort allocation optimization |
+| Independent Software Developer and Consultant | Brandenburger IT Solutions | Mengen, Germany | Sep 2023 - Present | • Among others, worked for Geberit and Westermann Verlag.<br>• Full-stack development and software architecture<br>• Mostly combining open-source technologies and SAP infrastructure for innovative employee applications |
+| Corporate Student | Geberit | Pfullendorf, Germany | Oct 2020 - Sep 2023 | • Visited all IT departments of the company<br>• Stay abroad to work in a Geberit subsidiary in Italy for several months<br>• Worked on real projects in an international business environment<br>• Developed a full-stack application for security checks used in production |
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+
+### Know Where You Go
+
+<p style="font-size: 16px; line-height: 1.6; margin: 15px 0;">
+
+Open-source Google Maps Alternative built with React and Leaflet.
+
+</p>
+
+<img src="./img/know-where-you-go.png" alt="Know Where You Go" width="600" style="border-radius: 10px; margin: 20px 0;" />
+
+
+[![GitHub](https://custom-icon-badges.demolab.com/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DHBW-FN-TIT20/know-where-you-go)&nbsp;&nbsp;[![Demo](https://custom-icon-badges.demolab.com/badge/Live_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://know-where-you-go.brandenburger.dev)
+
+
+---
+
+
+
+
+### Geberit: Central Platform for Analysis of Code Security in Enterprise Software Systems
+
+<p style="font-size: 16px; line-height: 1.6; margin: 15px 0;">
+
+Full-stack cloud native application for security analysis of [ABAP](https://en.wikipedia.org/wiki/ABAP) code. Presented on ABAPConf 2023 ([YouTube](https://www.youtube.com/live/hleq0-NTVQo?si=9nZnpXVj0ss_TG6l&t=23324)).
+
+</p>
+
+<img src="./img/security-check.png" alt="Geberit: Central Platform for Analysis of Code Security in Enterprise Software Systems" width="600" style="border-radius: 10px; margin: 20px 0;" />
+
+
+
+
+
+---
+
+
+
+
+### Flight Simulator Online 3D Game
+
+<p style="font-size: 16px; line-height: 1.6; margin: 15px 0;">
+
+Small 3D browser game using three.js
+
+</p>
+
+<img src="./img/flight-simulator.png" alt="Flight Simulator Online 3D Game" width="600" style="border-radius: 10px; margin: 20px 0;" />
+
+
+[![GitHub](https://custom-icon-badges.demolab.com/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/johannesbrandenburger/flight-simulator-pwa)&nbsp;&nbsp;[![Demo](https://custom-icon-badges.demolab.com/badge/Live_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://flight-simulator.brandenburger.dev)
+
+
+---
+
+
+
+
+### Reveal the World: Cloud Native Travel Map App
+
+<p style="font-size: 16px; line-height: 1.6; margin: 15px 0;">
+
+A Web-App with Docker, Kubernetes, Terraform and Express made for running on Azure
+
+</p>
+
+<img src="./img/reveal-the-world.png" alt="Reveal the World: Cloud Native Travel Map App" width="600" style="border-radius: 10px; margin: 20px 0;" />
+
+
+[![GitHub](https://custom-icon-badges.demolab.com/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/msi-se/reveal-the-world)
+
+
+---
+
+
+
+
+### User Authentication using Voice Recognition
+
+<p style="font-size: 16px; line-height: 1.6; margin: 15px 0;">
+
+A student research project concerning the topic of user authentication using voice recognition. The aim of the work was to find the optimal combination of the speaker features LPC, LPCC, MFCC and Delta MFCC for authentication using a neural network (TensorFlow).
+
+</p>
+
+<img src="./img/t3100.png" alt="User Authentication using Voice Recognition" width="600" style="border-radius: 10px; margin: 20px 0;" />
+
+
+[![GitHub](https://custom-icon-badges.demolab.com/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DHBW-FN-TIT20/user-authentication-using-voice-recognition)
+
+
+---
+
+
+
+
+### Generalized Iterative Closest Point Implementation
+
+<p style="font-size: 16px; line-height: 1.6; margin: 15px 0;">
+
+Own implementation of the Generalized Iterative Closest Point (GICP) algorithm in Python for vizualization and evaluation of the algorithm. The algorithm is finds the optimal transformation between two point clouds and is used to localize a robot using lidar data.
+
+</p>
+
+<img src="./img/gicp.png" alt="Generalized Iterative Closest Point Implementation" width="600" style="border-radius: 10px; margin: 20px 0;" />
+
+
+[![GitHub](https://custom-icon-badges.demolab.com/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/msi-se/generalized-icp)
+
+
+---
+
+
+
+
+### Typst MCP Server
+
+<p style="font-size: 16px; line-height: 1.6; margin: 15px 0;">
+
+A MCP server implementation that helps large language model agents to generate Typst documents.
+
+</p>
+
+
+
+
+[![GitHub](https://custom-icon-badges.demolab.com/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/johannesbrandenburger/typst-mcp)
+
+
+---
+
+
+
+
+### HTWG Mobile App
+
+<p style="font-size: 16px; line-height: 1.6; margin: 15px 0;">
+
+Student project in which we develop a mobile app for the students of the University of Applied Sciences Konstanz. Technologies used: Flutter, Quarkus, Docker
+
+</p>
+
+<img src="./img/connect.png" alt="HTWG Mobile App" width="600" style="border-radius: 10px; margin: 20px 0;" />
+
+
+[![GitHub](https://custom-icon-badges.demolab.com/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/msi-se/mobile-learning-app)
+
+
+---
+
+
+
+
+### Resume - All in One and resumee.cloud
+
+<p style="font-size: 16px; line-height: 1.6; margin: 15px 0;">
+
+Open-source resume generator for professionals that allows to define resume data in JSON format and then generates a nice web portfolio and a professional PDF resume. Additionally, I created a SaaS version of the generator at resumee.cloud, that allows users to create their own online resume without any coding. Technologies used: Next.js, Aceternity UI, Typst, Prisma, tRPC
+
+</p>
+
+<img src="./img/resume-generator.png" alt="Resume - All in One and resumee.cloud" width="600" style="border-radius: 10px; margin: 20px 0;" />
+
+
+[![GitHub](https://custom-icon-badges.demolab.com/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/johannesbrandenburger/resume-all-in-one)
+
+
+---
+
+
+
+
+### Student Project: Kudo Platform
+
+<p style="font-size: 16px; line-height: 1.6; margin: 15px 0;">
+
+We worked with [Sybit GmbH](https://www.sybit.de/) on a Kudo platform as part of the project for the Master's lectures 'Agile Process Models' and 'Mobile Communication and Collaboration'. I was the product owner of my group and therefore always in contact with the chief product owners.
+
+</p>
+
+
+
+
+[![GitHub](https://custom-icon-badges.demolab.com/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sybit-Education/AUME2023-Team-2)
+
+
+---
+
+
+
+
+### Assembly-Timediff
+
+<p style="font-size: 16px; line-height: 1.6; margin: 15px 0;">
+
+Program that evaluates timestamps, written in assembly x86-64
+
+</p>
+
+
+
+
+[![GitHub](https://custom-icon-badges.demolab.com/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lukasbraundev/snp-timediff)
+
+
+
+
+</div>
+
+## 🎯 Interests & Activities
+
+- Playing drums in the Musikkapelle Rulfingen e.V.
+- Alpine skiing
+- Strength and endurance sport
+
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+  
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=johannesbrandenburger&show_icons=true&theme=tokyonight)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johannesbrandenburger&layout=compact&theme=tokyonight)
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=johannesbrandenburger&theme=tokyonight)
+  
+</div>
