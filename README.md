@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="./img/johannes-brandenburger.png" alt="Johannes Brandenburger" width="200" height="200" style="border-radius: 50%;" />
   
   # Hi there, I'm Johannes Brandenburger 👋
 
