@@ -41,13 +41,6 @@ Hello! I am Johannes, a passionate software developer and engineer. I completed 
 ![D3.js](https://img.shields.io/badge/D3.js-lightgrey)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)
 
-
-### Soft Skills
-- Leadership Qualities ("You take on a very central role in planning and team communication")
-- Customer Orientation ("Your comprehensible and positive interaction with the CPOs is striking in a positive sense")
-- Communication Skills ("You communicate with great commitment and authenticity")
-
-
 ## 🎓 Education
 
 | Degree | University | Location | Period | Avg | Thesis |
